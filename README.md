@@ -52,3 +52,14 @@ Applying HTML, CSS, and JavaScript together
 Improving UI/UX design skills
 
 Writing clean and maintainable frontend code
+
+
+<img width="1911" height="904" alt="Image" src="https://github.com/user-attachments/assets/fa532398-9de0-4da3-be37-356e3697731f" />
+
+<img width="700" height="692" alt="Image" src="https://github.com/user-attachments/assets/5586d021-645c-487d-9049-c5098fc8519b" />
+<img width="314" height="440" alt="Image" src="https://github.com/user-attachments/assets/3da3cfcd-4018-4826-8bf0-88943c746925" />
+<img width="1915" height="908" alt="Image" src="https://github.com/user-attachments/assets/f9a0212d-ef2d-4977-88ac-4fcb4093feba" />
+<img width="1919" height="911" alt="Image" src="https://github.com/user-attachments/assets/a7d53073-e672-4c18-922a-1857b6f2ca2e" />
+<img width="1911" height="914" alt="Image" src="https://github.com/user-attachments/assets/5e349b6f-1468-41b9-a5dd-3201279783aa" />
+<img width="1919" height="912" alt="Image" src="https://github.com/user-attachments/assets/bad81362-cdbe-493a-806e-4090f9efe923" />
+<img width="1918" height="911" alt="Image" src="https://github.com/user-attachments/assets/7d54becb-68c0-49af-b170-fb96b0c208f1" />
